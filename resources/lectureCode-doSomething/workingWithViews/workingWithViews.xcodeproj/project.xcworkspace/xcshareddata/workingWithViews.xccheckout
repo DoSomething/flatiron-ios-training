@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8077BBF4-230E-4327-8AF3-366A7E937DA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>workingWithViews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>954479CE6749E429F17E1B44367F8DA6663AE8A5</key>
+		<string>github.com:flatiron-school-ironboard/lectureCode-doSomething.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>workingWithViews/workingWithViews.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>954479CE6749E429F17E1B44367F8DA6663AE8A5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:flatiron-school-ironboard/lectureCode-doSomething.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>954479CE6749E429F17E1B44367F8DA6663AE8A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>954479CE6749E429F17E1B44367F8DA6663AE8A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>doSomething</string>
+		</dict>
+	</array>
+</dict>
+</plist>

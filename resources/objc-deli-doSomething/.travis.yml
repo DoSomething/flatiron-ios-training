@@ -1,0 +1,8 @@
+language: objective-c
+
+before_install: 
+  - brew update
+  - brew remove xctool
+  - brew install xctool
+
+script: xctool -reporter pretty -project objc-deli/Objc-deli.xcodeproj -sdk iphonesimulator7.0 -scheme Objc-deli build test
