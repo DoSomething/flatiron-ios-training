@@ -9,26 +9,26 @@ The following agenda was for a 2.5 day course on fundamentals in iOS development
 | Time            | Plan                              |
 |-----------------|-----------------------------------|
 | 9:00am-10:00am  | Welcome to ObjC                   |
-| 10:00am-12:00pm | [Obj-Deli](https://github.com/DoSomething/blob/master/resources/objc-deli-doSomething) and [Collections Practice](https://github.com/DoSomething/blob/master/resources/ios-collections-doSomething) |
+| 10:00am-12:00pm | [Obj-Deli](resources/objc-deli-doSomething) and [Collections Practice](resources/ios-collections-doSomething) |
 | 1:00pm-2:30pm   | Review and Views in iOS           |
-| 2:30pm-5:00pm   | [Jukebox-Views](https://github.com/DoSomething/blob/master/resources/jukebox-views-doSomething)                     |
+| 2:30pm-5:00pm   | [Jukebox-Views](resources/jukebox-views-doSomething)                     |
 | 5:00pm-6:00pm   | Review and Wrap-up                |
 
 ### Resources
 
-  * [Objc Reference Guide](https://github.com/DoSomething/blob/master/resources/reading-ios-objc-reference-guide-doSomething)
+  * [Objc Reference Guide](resources/reading-ios-objc-reference-guide-doSomething)
   * [Objc Style Guide](https://github.com/NYTimes/objective-c-style-guide)
   
 ### Labs
 
-  * [Objc-Deli](https://github.com/DoSomething/blob/master/resources/objc-deli-doSomething)
-  * [Collections Practice](https://github.com/DoSomething/blob/master/resources/ios-collections-doSomething)
-  * [Jukebox-Views](https://github.com/DoSomething/blob/master/resources/jukebox-views-doSomething) 
+  * [Objc-Deli](resources/objc-deli-doSomething)
+  * [Collections Practice](resources/ios-collections-doSomething)
+  * [Jukebox-Views](resources/jukebox-views-doSomething) 
   * [BlackJack](objc-BlackJackViews-doSomething)
 
 ### Code
 
- * [Code is hosted here](https://github.com/DoSomething/blob/master/resources/lectureCode-doSomething)
+ * [Code is hosted here](resources/lectureCode-doSomething)
 
 ### Videos (PW:"fastsomething")
 
@@ -44,9 +44,9 @@ The following agenda was for a 2.5 day course on fundamentals in iOS development
 | Time            | Plan                              |
 |-----------------|-----------------------------------|
 | 9:00am-11:00am  | TableViews in ObjC                |
-| 11:00am-1:30pm | [jukeBox-TableViews](https://github.com/DoSomething/blob/master/resources/jukebox-tableViews-doSomething) |
+| 11:00am-1:30pm | [jukeBox-TableViews](resources/jukebox-tableViews-doSomething) |
 | 1:30pm-3:00pm   | The Internet in iOS           |
-| 3:00pm-6:00pm   | [githubRepo List](https://github.com/DoSomething/blob/master/resources/github-repo-list-doSomething)                     |
+| 3:00pm-6:00pm   | [githubRepo List](resources/github-repo-list-doSomething)                     |
 
 ### Resources
 
@@ -56,12 +56,12 @@ The following agenda was for a 2.5 day course on fundamentals in iOS development
 
 ### Labs
 
- * [jukeBox-TableViews](https://github.com/DoSomething/blob/master/resources/jukebox-tableViews-doSomething)
- * [githubRepo List](https://github.com/DoSomething/blob/master/resources/github-repo-list-doSomething)
+ * [jukeBox-TableViews](resources/jukebox-tableViews-doSomething)
+ * [githubRepo List](resources/github-repo-list-doSomething)
 
 ### Code
 
- * [Code is hosted here](https://github.com/DoSomething/blob/master/resources/lectureCode-doSomething)
+ * [Code is hosted here](resources/lectureCode-doSomething)
 
 ### Videos
 
@@ -77,13 +77,13 @@ The following agenda was for a 2.5 day course on fundamentals in iOS development
 | Time            | Plan                              |
 |-----------------|-----------------------------------|
 | 9:00am-10:00am  | Core Data in Objc                |
-| 10:00am-11:00am | [jukeBox-TableViews-CoreData](https://github.com/DoSomething/blob/master/resources/jukebox-tableviews-coreData-doSomething) |
+| 10:00am-11:00am | [jukeBox-TableViews-CoreData](resources/jukebox-tableviews-coreData-doSomething) |
 | 11:00am-12:00pm   | AutoLayout, Modular Views           |
 
 ### Labs
 
-  * [jukeBox-TableViews-CoreData](https://github.com/DoSomething/blob/master/resources/jukebox-tableviews-coreData-doSomething)
-  * [pourCast](https://github.com/DoSomething/blob/master/resources/pour-cast-doSomething)
+  * [jukeBox-TableViews-CoreData](resources/jukebox-tableviews-coreData-doSomething)
+  * [pourCast](resources/pour-cast-doSomething)
 
 ### Resources
 
